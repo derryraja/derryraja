@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @derryraja
-- 👀 I’m interested in flutter development, UI | UX Designing
-- 🌱 I’m currently learning flutter
+- 👀 I’m a certified UI | UX Designer
+- 🌱 I’m a Cyberber Security Enthusiast & currently learning Flutter.
 
 <!---
 derryraja/derryraja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
