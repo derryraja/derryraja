@@ -3,9 +3,9 @@
 
 ![Design & Development](https://pbs.twimg.com/profile_banners/1398673866017316867/1622310548/1080x360)
 
-- 👀 I’m a certified UI | UX Designer.
+- 👀 I’m a mobile app developer & certified UI | UX Designer.
 - 📙  I'm currently learning Flutter.
-- 🌱 I’m interested Cyber Security. 
+- 🌱 I’m interested Cyber Security, Designing.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derryraja&show_icons=true&locale=en&layout=compact" alt="derryraja" /></p>
 
