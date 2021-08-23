@@ -5,7 +5,7 @@
 
 - 👀 I’m a mobile app developer & certified UI | UX Designer.
 - 📙  I'm currently learning more about Flutter.
-- 🌱 I’m interested in Cyber Security, Designing.
+- 🌱 I’m interested in Cyber Security, AI, and Designing.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derryraja&show_icons=true&locale=en&layout=compact" alt="derryraja" /></p>
 
