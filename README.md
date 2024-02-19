@@ -1,4 +1,4 @@
-### Hello there, I'm Dhinakar
+### Hello there, I'm Dhinakar Rajarathinam
 (but you can also call me Derry)
 
 ![Design & Development](https://pbs.twimg.com/profile_banners/1398673866017316867/1622310548/1080x360)
