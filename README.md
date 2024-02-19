@@ -1,7 +1,7 @@
 ### Hello there, I'm Dhinakar Rajarathinam
 (but you can also call me Derry)
 
-![Design & Development](https://pbs.twimg.com/profile_banners/1398673866017316867/1622310548/1080x360)
+![Design & Development](https://play-lh.googleusercontent.com/vVJMnJMx86c1WGtUXc2yc7JBT6HtPeuXHZ1PyVJi3hoJsCBtfyU2-2qYmv-rvyvTLQ=w3840-h2160-rw)
 
 - 👀 I’m a mobile app developer & certified UI | UX Designer.
 - 📙  I'm currently learning more about Flutter.
