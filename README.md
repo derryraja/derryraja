@@ -3,9 +3,9 @@
 
 ![Design & Development](https://play-lh.googleusercontent.com/vVJMnJMx86c1WGtUXc2yc7JBT6HtPeuXHZ1PyVJi3hoJsCBtfyU2-2qYmv-rvyvTLQ=w3840-h2160-rw)
 
-- 👀 I’m a mobile app developer & certified UI | UX Designer.
-- 📙  I'm currently learning more about Flutter.
-- 🌱 I’m interested in Cyber Security, AI, and Designing.
+- 👀 I'm a IBM Certified Cybersecurity Analyst, Mobile Application Developer, and a UI/UX Designer.
+- 📙 Recently graduated from King's College London after pursuing a MSc in Cybersecurity.
+- 🌱 I’m most interested in Security, AI and rendering 3d environments on Blender.
 <img src="https://tryhackme-badges.s3.amazonaws.com/derryraja.png" alt="TryHackMe">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derryraja&show_icons=true&locale=en&layout=compact" alt="derryraja" /></p>
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/derryraja_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="derryraja_24" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/dhinakar-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhinakar-r/" height="20" width="30" /></a>
-<a href="https://instagram.com/derry.raja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="derry.raja" height="20" width="30" /></a>
+<a href="https://instagram.com/derry.jpeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="derry.raja" height="20" width="30" /></a>
 <a href="https://www.behance.net/derryraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="derryraja" height="20" width="30" /></a>
 </p>
 
